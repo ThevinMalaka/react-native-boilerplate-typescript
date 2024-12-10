@@ -1,7 +1,7 @@
 {
   "name": "reactNativeBoilerplateTypescript",
   "version": "0.0.1",
-  "author": "Thevin Malaka | thevinmalaka.com",
+  "author": "Thevin Malaka - thevinmalaka.com",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
